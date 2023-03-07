@@ -32,7 +32,7 @@ Here's a walkthrough of implemented required features:
 https://user-images.githubusercontent.com/38772501/223352782-7cb3d11b-1a26-48b3-a2f7-dc2a57b5fa6a.mov
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created apple screen recording 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
