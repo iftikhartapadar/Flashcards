@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://user-images.githubusercontent.com/38772501/223352782-7cb3d11b-1a26-48b3-a2f7-dc2a57b5fa6a.mov
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
